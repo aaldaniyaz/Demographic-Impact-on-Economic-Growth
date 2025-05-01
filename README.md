@@ -1,11 +1,11 @@
-# title: "Demographic Impact on Economic Growth"
-subtitle: "Analyzing the Impact of Demographic Factors, Including Population Growth, Age Structure, and Education, on Global Economic Growth Between 2013 and 2023"
+# "Demographic Impact on Economic Growth"
+## subtitle: "Analyzing the Impact of Demographic Factors, Including Population Growth, Age Structure, and Education, on Global Economic Growth Between 2013 and 2023"
 author: 
   - Alua Aldaniyaz 
   - Asmae Nakib
   - Oleksii Terletskyi 
 
-# abstract: >
+# Abstract
   This study examined the relationship between demographic factors and GDP growth from 2013 to 2023 using panel regression models and global economic data. Population growth emerged as a statistically significant driver of economic expansion in contexts with limited alternative growth factors (coefficient: 4.51, p = 0.004), while its effect diminished in more diversified economies. Other variables, including age structure and education levels, demonstrated limited explanatory power, with statistically insignificant results across all models. Low R² values (ranging from -0.25 to 0.10) indicate that demographic factors alone are insufficient to explain GDP variability, underscoring the importance of additional economic and institutional drivers. Refinements in the analysis improved model reliability, revealing the importance of robust data preparation and methodological rigor. The findings provide a nuanced understanding of the demographic-economic relationship, highlighting population growth as a key variable in less complex economies while suggesting further exploration of structural factors in advanced contexts.
 
 
